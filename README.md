@@ -20,6 +20,4 @@ Outputs are saved in `outputs/`:
 - `03_feature_importance.png`, `04_attrition_by_department.png`
 - `01_logreg_metrics.json`, `executive_summary.txt`
 
-## Interview highlights
-- Tradeoff: calibrated baseline vs. explainable tree
-- Translating model drivers into **retention pilots**
+
